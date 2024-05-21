@@ -1,0 +1,35 @@
+PDAU exhibits an overall upward trend over the weeks, with notable fluctuations. On average, PDAU has been increasing from weeks 31 to 35
+and again from weeks 36 to 38. These periods represent two distinct cycles of highs and lows.
+             
+* Weeks 31 to 35:
+    - During weeks 31 to 35, there was a significant 7.5% increase in PDAU from 32.17 to 34.59. Week 35 was also when we achieved the first PDAU peak in all weeks. There might be possible driving
+    factors such as special events, software updates, or new content releases.
+    - However, when compared to total logins, we observe a cyclical pattern rather than an upward trend during this period. Despite the drop in the number of user logins
+    in week 33, the number of paying users still increased steadily throughout weeks 31 to 35.
+    - It could be possible that while overall interest fluctuated and logins may have gone up and down, the target user group has been successfully converted or still
+    strongly retained. This resulted in a significant revenue jump of nearly 27.5% (i.e. 5956.26 EUR in week 31 to 7591.47 EUR in week 34).  
+             
+* Weeks 36 to 38:
+    - From weeks 36 to 38, PDAU showed a similar trend but with a sharper and higher climb in a shorter period.
+    - Week 37 achieved the highest average revenue of 8227.17 EUR, which is a 8.4% increase from the previous highest peak in week 35 at 7591.47. While week 38 saw the highest
+    PDAU peak of 35.54, which is a 2.7% increase from the first peak in week 35 at 34.59.
+    - During these weeks, we can also observe a significant increase in the average number of logins from 241 in week 36 to 243.3 in week 38.
+    - We assume there is a positive correlation between the total number of paying users and total logins during weeks 36 to 38. It is likely that new content updates, game events, competitions,
+    or promotions played a critical role in boosting both user logins and payments simultaneously.
+
+* Weeks 39 to 40:
+    - Although the number of user logins still grew strongly from weeks 39 to 40, we no longer see the matching number of paying users. There was a 4.2% decrease in PDAU from 35.54 in week 38 to 34.03
+    in week 40.
+    - It could be that there were some new events or campaigns in week 40 however they were not appealing as expected for paid users. However as this is the ending week, we don't have enough data to
+    support this assumption.
+
+Overall we can see that
+- PDAU changes are rather influenced by changes in percentage of paid users over total logged in users (PDAU percentage) than total number of user logins. Therefore, we should focus on
+develop and optimise the login to paying funnel to improve PDAU, and
+- PDAU might not affect revenue growth compared to amount of transaction per paid user so we should focus on maximising how much each user pay in a transaction.
+             
+Based on this analysis, game creators, UA specialists and other stakeholders can draw insights and make data-driven decisions to optimize their strategies and improve user retention and monetization.
+They can design login to paying flows, promotions, UA campaigns or content updates to target the right user group and maximize the revenue potential. In terms of envisioning data missing that can possibly improve
+the analysis, we suggest collecting more data on login to paying funnel such as first tutorial to first payment, and other data like user behavior, user segmentation, and user feedback. This data can help to
+identify the most profitable user segments, understand their preferences, and tailor the game experience to meet their needs. It can also help to evaluate the effectiveness of marketing campaigns, promotions,
+and new content releases.
